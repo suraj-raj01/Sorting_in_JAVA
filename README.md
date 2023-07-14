@@ -1,2 +1,5 @@
 # Sorting_in_JAVA
 Sorting in Java
+1. BUBBLE SORT
+2. SELECTION SORT
+3. INSERTION SORT
